@@ -2427,8 +2427,8 @@ body:after {
 }
 
 .pricing-popular .pricing {
-	-webkit-box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.3);
-	box-shadow: 0 10px 40px -10px rgba(0, 0, 0, 0.3);
+	-webkit-box-shadow: 0 10px 40px -10px #0f3759;
+	box-shadow: 0 10px 40px -10px #0f3759;
 }
 
 /* Isotope Transitions
